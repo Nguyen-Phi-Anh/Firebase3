@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "829138151772",
+    "firebase_url": "https://fir-1-25ebb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-1-25ebb",
+    "storage_bucket": "fir-1-25ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829138151772:android:d6b818472350f77ac6b999",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAUq4zL0avihN2em10L9uK-OsYqGn3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829138151772:android:1f74735a64355771c6b999",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAUq4zL0avihN2em10L9uK-OsYqGn3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829138151772:android:acc986afca2b2a2ac6b999",
+        "android_client_info": {
+          "package_name": "com.example.firebase3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAUq4zL0avihN2em10L9uK-OsYqGn3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829138151772-plki3qtuj3u7159qv89mce8rb1mqetpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
